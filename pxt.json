@@ -1,0 +1,21 @@
+{
+    "name": "stem-s-20200713",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "stem-s": "github:tfabworks/stem-s#46ce1437573de0ed970eb6f1700e25ce64624466"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
